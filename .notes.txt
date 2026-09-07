@@ -1,0 +1,3 @@
+GitHub practical work
+Learning basic Git workflow
+Git and GitHub are useful for version control
